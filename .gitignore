@@ -1,0 +1,5 @@
+.vscode
+.DS_Store
+Assignment2/GroceryStoreDataset
+**/*.pth
+.venv
