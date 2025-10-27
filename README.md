@@ -1,6 +1,6 @@
 # Classification of grocery store products
 
-Neural network that classifies smartphone pictures of products found in grocery stores. The assignment is  divided into two parts: first, implement from scratch your own neural network for image classification; then, fine-tune a pre-trained network provided by PyTorch.
+Neural network that classifies smartphone pictures of products found in grocery stores. The assignment is divided into two parts: first, implement from scratch your own neural network for image classification; then, fine-tune a pre-trained network provided by PyTorch. To access the first assignment, which instead use classical Computer Vision techniques, without relying on Deep Learning, [click here](https://github.com/AngeloGalav/grocery-instance-detection).
 
 <p align="center">
   <img src="https://github.com/marcusklasson/GroceryStoreDataset/raw/master/sample_images/natural/Granny-Smith.jpg" width="150">
